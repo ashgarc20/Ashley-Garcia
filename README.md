@@ -2,6 +2,7 @@
 # About me 
 I am a freshman enrolled full-time at Hartnell College and part-time at CSUMB, studying computer science with a focus on software development. I am part of an accelerated three year bachelors degree program named CSin3. 
 # Education 
+
 California State University Monterey Bay pursuing Computer Science degree by May 2021.
 Hartnell Community College pursuing Associates Degree by May 2020.
 # Professional Experience 
@@ -11,4 +12,4 @@ Volunteer to tutor 5 students for 3 hours each week throughout past summer and f
 Harntell Physics, Mesa, and Math club member. January - May 2019.
 Assisted 3 STEM events where I helped raise money, and demonstrate 3 math and physics experiments to 50+ children and adults. 
 # Contact Me 
-Connect with me on [Linkedin](www.linkedin.com/in/ashleyagarcia20) 
+Connect with me on _[Linkedin](www.linkedin.com/in/ashleyagarcia20)_
