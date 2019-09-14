@@ -2,6 +2,7 @@
 # About me 
 I am a freshman enrolled full-time at Hartnell College and part-time at CSUMB, studying computer science with a focus on software development. I am part of an accelerated three year bachelors degree program named CSin3. 
 # Education 
+![csumb](https://user-images.githubusercontent.com/32247665/64911354-905e7b80-d6d5-11e9-9304-4088831a8559.jpg)
 
 California State University Monterey Bay pursuing Computer Science degree by May 2021.
 Hartnell Community College pursuing Associates Degree by May 2020.
