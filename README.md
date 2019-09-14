@@ -13,6 +13,9 @@ Tutor 5 hours a week at Hartnell College for 20 students in Intro to Computer pr
 
 Volunteered to tutor 5 students for 3 hours each week throughout past summer and fall semesters in the intermediate math, trigonometry, and pre-calculus classes.
 # Leadership Experience
+![lellplogo2](https://user-images.githubusercontent.com/32247665/64911614-f7c9fa80-d6d8-11e9-893e-339aa726bd91.png)
+
+
 Latinas Engineering Leadership Program Fellow Aug. 2019- Dec. 2019
 Selected as one of ten fellows to participate in a professional development program designed to prepare students for technical interviews to help them land their first summer internship and develop their leadership skills. 
 
