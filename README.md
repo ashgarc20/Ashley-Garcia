@@ -10,6 +10,8 @@ California State University Monterey Bay pursuing Computer Science degree by May
 
 Hartnell Community College pursuing Associates Degree by May 2020.
 # Professional Experience 
+![pll](https://user-images.githubusercontent.com/32247665/64911731-52b02180-d6da-11e9-9628-77cf652999ba.jpg)
+
 Tutor 5 hours a week at Hartnell College for 20 students in Intro to Computer programming. 
 
 Volunteered to tutor 5 students for 3 hours each week throughout past summer and fall semesters in the intermediate math, trigonometry, and pre-calculus classes.
