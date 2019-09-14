@@ -6,11 +6,16 @@ I am a freshman enrolled full-time at Hartnell College and part-time at CSUMB, s
 
 
 California State University Monterey Bay pursuing Computer Science degree by May 2021.
+
 Hartnell Community College pursuing Associates Degree by May 2020.
 # Professional Experience 
 Tutor 5 hours a week at Hartnell College for 20 students in Intro to Computer programming. 
-Volunteer to tutor 5 students for 3 hours each week throughout past summer and fall semesters in the intermediate math, trigonometry, and pre-calculus classes.
+
+Volunteered to tutor 5 students for 3 hours each week throughout past summer and fall semesters in the intermediate math, trigonometry, and pre-calculus classes.
 # Leadership Experience
+Latinas Engineering Leadership Program Fellow Aug. 2019- Dec. 2019
+Selected as one of ten fellows to participate in a professional development program designed to prepare students for technical interviews to help them land their first summer internship and develop their leadership skills. 
+
 Harntell Physics, Mesa, and Math club member. January - May 2019.
 Assisted 3 STEM events where I helped raise money, and demonstrate 3 math and physics experiments to 50+ children and adults. 
 # Contact Me 
