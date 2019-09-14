@@ -1,4 +1,5 @@
 # About me 
+![IMG_20190807_200950 (2)](https://user-images.githubusercontent.com/32247665/64911657-83438b80-d6d9-11e9-87c9-fde7b37f6170.jpg)
 I am a freshman enrolled full-time at Hartnell College and part-time at CSUMB, studying computer science with a focus on software development. I am part of an accelerated three year bachelors degree program named CSin3. 
 # Education 
 ![csumb](https://user-images.githubusercontent.com/32247665/64911354-905e7b80-d6d5-11e9-9304-4088831a8559.jpg)  ![logo](https://user-images.githubusercontent.com/32247665/64911406-50e45f00-d6d6-11e9-8f28-2f94b681421e.png)
